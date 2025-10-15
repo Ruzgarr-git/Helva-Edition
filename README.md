@@ -1,6 +1,6 @@
 ![helva-edition-logo2](https://cdn.modrinth.com/data/cached_images/e8a9fde784bbfd8b08f3765ad25ba560b6c8c6c6.png)
 
- [![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_64h.png)](https://modrinth.com/modpack/helva-edition/versions?l=forge)‎ ‎ ‎  [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/helva-edition)‎‎ ‎ ‎  [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Ruzgarr-git/helva-edition)
+ [![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_64h.png)](https://modrinth.com/modpack/helva-edition/versions?l=forge)‎ ‎ ‎  [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/helva-edition)‎‎ ‎ ‎  [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Ruzgarr-git/Helva-Edition)
   
    
 Helva Edition aims to transform your world from a familiar landscape into a place teeming with new life, deadly threats, and rich gameplay systems;
