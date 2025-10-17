@@ -1,0 +1,17 @@
+filename = 'boy_and_the_bath-3.4.0-forge-1.20.1.jar'
+name = 'Boy And The Bath [Horror, not a dweller]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.4.0'
+
+[download]
+hash = '05bc257520666330dcb4a285497d9149d3dadc93e3a0aa123d9c07c4f258fabad81522bbb3e08bd32295a86455d12e052637c8560d7587bf4042a1a4d475c86e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UqwJzAeJ/versions/qL6rQ1iU/boy_and_the_bath-3.4.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'UqwJzAeJ'
+version = 'qL6rQ1iU'

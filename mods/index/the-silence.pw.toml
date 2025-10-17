@@ -1,0 +1,17 @@
+filename = 'the_silence-0.2 patch 2.0 Fixed - CENSORED ver.jar'
+name = 'The Silence'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2'
+
+[download]
+hash = 'a9d499a9f1eb0ffba9c28f5722363f744ec5a020bc99a180f52b17e5a2a1bd45fc3aeb3476f247d52d2066bbd427d0436096010dfcfce48196106479dce530bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BRzYzJex/versions/iBWgRvNa/the_silence-0.2 patch 2.0 Fixed - CENSORED ver.jar'
+
+[update.modrinth]
+mod-id = 'BRzYzJex'
+version = 'iBWgRvNa'

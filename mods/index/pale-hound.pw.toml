@@ -1,0 +1,17 @@
+filename = 'Pale_Hound-1.20.1-1.10.0.jar'
+name = 'The Pale Hound'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.10.0'
+
+[download]
+hash = 'aec1da6f59b9f394d49f91b779cd652992bae87ba3e00e3f7cedb0d96c3dae10620d10c6a39094d53fc109e5f013daff742730492ba59dbfa1d169b18c5f61cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GHiEjPkT/versions/Dq2zo7hK/Pale_Hound-1.20.1-1.10.0.jar'
+
+[update.modrinth]
+mod-id = 'GHiEjPkT'
+version = 'Dq2zo7hK'
